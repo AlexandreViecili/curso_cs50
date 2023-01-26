@@ -1,4 +1,5 @@
 // PRACTICE PROBLEM HOURS //
+// Write a function to calculate total hours or average hours per week depending on the user's choice //
 
 #include <cs50.h>
 #include <ctype.h>
